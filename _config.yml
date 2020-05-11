@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 阳月的博客 | BY Blog
+title: YY Blog
+SEOTitle: 阳月的博客 | YY Blog
 header-img: img/post-bg-desk.jpg
 email: yangyuetogod@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 道的博客, yang, 阳月, iOS, Apple, iPhone"
+keyword: "YY, YY Blog, 阳月的博客, yangyue, 阳月, iOS, Apple, iPhone"
 url: "http://yang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yang-110/yang.github.io.git" # you code repository
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: none    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: yang.github.io    #仓库名称
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "https://www.jianshu.com/u/31e7c3e068cb"
     },{
         title: "Apple",
         href: "https://apple.com"
